@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-05-15T02:20:08.632Z'
+datePublished: '2016-05-15T03:09:59.791Z'
 author: []
-dateModified: '2016-05-15T02:19:44.824Z'
+dateModified: '2016-05-15T03:09:56.806Z'
 title: Made for our planet
 description: ''
 starred: false
@@ -14,4 +14,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae4f62135f98fc08728d3d09b550107c94c0884.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32a7955d-696e-4132-af35-ac2fd32bfc7c.jpg)
