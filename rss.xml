@@ -4,7 +4,7 @@
         <description><![CDATA[hylas 2]]></description>
         <link>https://thegrid.ai/hylas-2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 03:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 03:29:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hylas-2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hylas]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hylas-2/hylas/index.html</link>
             <guid isPermaLink="false">f531e1eb-fb0f-44c7-8f8f-3a1142b2e057</guid>
             <pubDate>Sat, 14 May 2016 20:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Community ]]></title>
+            <description><![CDATA[<article><h1>Community </h1><p>Leaving the world better than we found. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/086da60f-ecad-4378-965a-95d29a1f1413.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hylas-2/community/index.html</link>
+            <guid isPermaLink="false">d79ad92c-1a7d-4281-98a2-7976dce65254</guid>
+            <pubDate>Sun, 15 May 2016 03:29:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Made for our planet]]></title>
