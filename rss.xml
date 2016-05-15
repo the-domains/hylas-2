@@ -4,7 +4,7 @@
         <description><![CDATA[hylas 2]]></description>
         <link>https://thegrid.ai/hylas-2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 02:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 02:58:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hylas-2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hylas]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/hylas-2/hylas/index.html</link>
             <guid isPermaLink="false">f531e1eb-fb0f-44c7-8f8f-3a1142b2e057</guid>
             <pubDate>Sat, 14 May 2016 20:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hylas]]></title>
-            <description><![CDATA[<article><h1>hylas</h1><p>At our core, its all about the team.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9a5a907-f8b6-4e96-82d2-c91367369639.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hylas-2/hylas/index.html</link>
-            <guid isPermaLink="false">e3bfbe6b-0e5e-4fee-b5f6-aa65d2c34944</guid>
-            <pubDate>Sun, 15 May 2016 02:20:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Community]]></title>
@@ -54,13 +47,6 @@
             <link>https://thegrid.ai/hylas-2/the-echo-cycle/index.html</link>
             <guid isPermaLink="false">4b2ec666-f3e8-4475-ac13-1a225e3e092a</guid>
             <pubDate>Sat, 14 May 2016 21:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
-            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/background-design/</link>
-            <guid isPermaLink="false">20f407f8-7d9f-4b00-8a5f-bdc38641d39f</guid>
-            <pubDate>Sat, 14 May 2016 19:15:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
